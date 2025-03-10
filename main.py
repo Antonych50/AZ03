@@ -70,3 +70,9 @@ plt.xlabel('Price')
 plt.ylabel('Frequency')
 plt.title('Price Distribution')
 plt.show()
+'''
+plt.scatter(df['Price'])
+plt.xlabel('Price')
+plt.ylabel('Frequency')
+plt.title('Price Distribution')
+plt.show()'''
